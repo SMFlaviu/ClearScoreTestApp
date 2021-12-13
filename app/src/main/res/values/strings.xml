@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ClearScoreTestApp</string>
+    <string name="clear_score_demo">ClearScoreDemo</string>
+    <string name="your_credit_score_is">Your credit score is</string>
+    <string name="out_of">out of %s</string>
+    <string name="ok">OK</string>
+    <string name="error_msg">Check internet connection or</string>
+    <string name="please_try_again_later">Please try again later</string>
+    <string name="credit_details">Credit Details</string>
+    <string name="credit_report">Credit Info</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="credit_details_card">Credit Details</string>
+</resources>
